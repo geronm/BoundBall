@@ -10,6 +10,8 @@ MIT License; See LICENSE.txt for full license.
 
 ## About
 
+![alt text](./screenshot0.png)
+
 Demonstration video: https://www.youtube.com/watch?v=BWtpgn0bQQo
 
 This was a senior project I did for high school. The code is 10 years old and was not written to last ... expect rough edges!
@@ -17,6 +19,9 @@ This was a senior project I did for high school. The code is 10 years old and wa
 A word of warning ... many of the demos in the above video were hardcoded in a one-off fashion at the time. Those behaviors
 are still present within the code, but exhibiting them requires some hacking. For the sake of time, I'm presenting the code
 as-is, which has the "mesh" demo set up... but, there are other demos to explore in the code.
+
+Hint: try pressing the down arrow key, and then the right arrow key. And don't forget to try the mouse!
+
 
 ## Running the project
 
