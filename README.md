@@ -22,6 +22,7 @@ as-is, which has the "mesh" demo set up... but, there are other demos to explore
 
 Hint: try pressing the down arrow key, and then the right arrow key. And don't forget to try the mouse!
 
+Also, the `v0.x` folders can be used to see older versions of the engine. Run them just like you run the top-level code.
 
 ## Running the project
 
